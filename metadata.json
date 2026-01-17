@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Well Computer Sales Management",
+  "description": "A comprehensive sales management system for Well Computer with multi-role access, real-time reporting, and AI-powered WhatsApp transaction simulation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
